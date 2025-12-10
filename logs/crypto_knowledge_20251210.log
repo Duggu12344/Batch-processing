@@ -1,0 +1,31 @@
+2025-12-10 22:47:24,435 - crypto_knowledge - INFO - CoinGecko fetcher initialized
+2025-12-10 22:47:24,436 - crypto_knowledge - INFO - Fetching top 5 cryptocurrencies
+2025-12-10 22:47:25,038 - crypto_knowledge - INFO - Successfully fetched 5 cryptocurrencies
+2025-12-10 22:47:25,043 - crypto_knowledge - INFO - Crypto fact extractor initialized
+2025-12-10 22:47:25,046 - crypto_knowledge - INFO - Extracted 20 facts from 5 cryptocurrencies
+2025-12-10 22:47:25,052 - crypto_knowledge - INFO - Loading sentence transformer model...
+2025-12-10 22:47:31,351 - crypto_knowledge - INFO - Created new collection: crypto_facts
+2025-12-10 22:47:31,351 - crypto_knowledge - INFO - Vector store initialized
+2025-12-10 22:47:31,352 - crypto_knowledge - INFO - Generating embeddings for 20 facts...
+2025-12-10 22:47:31,839 - crypto_knowledge - INFO - Added 20 facts to vector database
+2025-12-10 22:47:31,840 - crypto_knowledge - INFO - Loading sentence transformer model...
+2025-12-10 22:47:36,095 - crypto_knowledge - INFO - Loaded existing collection: crypto_facts
+2025-12-10 22:47:36,095 - crypto_knowledge - INFO - Vector store initialized
+2025-12-10 22:47:36,096 - crypto_knowledge - INFO - Crypto retriever initialized
+2025-12-10 22:47:36,097 - crypto_knowledge - ERROR - System initialization error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-10 22:49:34,905 - crypto_knowledge - INFO - CoinGecko fetcher initialized
+2025-12-10 22:49:34,905 - crypto_knowledge - INFO - Fetching top 5 cryptocurrencies
+2025-12-10 22:49:35,955 - crypto_knowledge - INFO - Successfully fetched 5 cryptocurrencies
+2025-12-10 22:49:35,956 - crypto_knowledge - INFO - Crypto fact extractor initialized
+2025-12-10 22:49:35,956 - crypto_knowledge - INFO - Extracted 20 facts from 5 cryptocurrencies
+2025-12-10 22:49:35,958 - crypto_knowledge - INFO - Loading sentence transformer model...
+2025-12-10 22:49:40,018 - crypto_knowledge - INFO - Loaded existing collection: crypto_facts
+2025-12-10 22:49:40,020 - crypto_knowledge - INFO - Vector store initialized
+2025-12-10 22:49:40,020 - crypto_knowledge - INFO - Generating embeddings for 20 facts...
+2025-12-10 22:49:40,213 - crypto_knowledge - INFO - Added 20 facts to vector database
+2025-12-10 22:49:40,214 - crypto_knowledge - INFO - Loading sentence transformer model...
+2025-12-10 22:49:44,150 - crypto_knowledge - INFO - Loaded existing collection: crypto_facts
+2025-12-10 22:49:44,151 - crypto_knowledge - INFO - Vector store initialized
+2025-12-10 22:49:44,151 - crypto_knowledge - INFO - Crypto retriever initialized
+2025-12-10 22:49:44,152 - crypto_knowledge - ERROR - Failed to initialize Groq client: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-12-10 22:49:44,153 - crypto_knowledge - ERROR - System initialization error: Client.__init__() got an unexpected keyword argument 'proxies'
